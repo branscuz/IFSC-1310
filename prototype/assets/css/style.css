@@ -1,7 +1,13 @@
 body {
-    font-family: 'Raleway', sans-serif;
+  font-family: 'Raleway', sans-serif;
+  background-color:#afeeee;
 }
 header.primary{
-  background-color:#352F61;
-  color:#ffffff;
+background-color:#352F61;
+color:#ffffff;
+}
+table, th, td{
+margin: 40px 20px;
+border:1px solid;
+background-color:#b7b7ee;
 }
