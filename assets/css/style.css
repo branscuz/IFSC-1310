@@ -3,25 +3,25 @@
     *:after {
         box-sizing: border-box;
     }
-    @media (max-width: 600px) {
-        section {
-          flex-direction: column;
-        }
-      }
-      a{
-        display:block;
-        color:white;
-      }
-      a:visited{
-        color:#C3C5E8;
-      }
-      a:hover{
-        text-decoration:none;
-      }
-      #progressive-enhancement a{
-        display:block;
-      }
-      body{
-        background-color:black;
-        color:white;
-      }
+@media (max-width: 600px) {
+  section {
+    flex-direction: column;
+  }
+}
+a{
+  display:block;
+  color:white;
+}
+a:visited{
+  color:#C3C5E8;
+}
+a:hover{
+  text-decoration:none;
+}
+#progressive-enhancement a{
+  display:block;
+}
+body{
+  color:white;
+  background-image: url("https://sat02pap001files.storage.live.com/y4m88g-GPFijUfpjM2MNgsYjLNFjFOc3jPsFUVDeWfkSjLy_Oroo6kIstYqsYYFMOZB0mof8uPlVPfURwPJG6v1bM4kb8pMOqFWMKlkZwGPjbxXVf2B_CAx_XMlubbOyadtKYwZZjT1bIWhKpQNI2wdA-0aWrUScpjuIbq7V6B-TKxsZmc43pvVImEV3suyEDlN?width=1024&height=576&cropmode=none");
+}
