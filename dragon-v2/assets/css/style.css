@@ -27,6 +27,10 @@ header.primary h1 a{
 color:#ffffff;
 text-decoration:none;
 }
+header.primary h1 a img{
+  width:60%;
+  margin-left:4rem;
+}
 header.primary h2 {
 font-size: 1.6rem;
 margin: 20px auto 40px;
