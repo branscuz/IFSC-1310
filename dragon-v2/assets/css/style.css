@@ -231,3 +231,8 @@ background-image:url("https://sat02pap001files.storage.live.com/y4mqxD2vYnU_ffvc
 #slideshow{
     background-color:#80C5CC;
 }
+#slideshow h3{
+  color:#8B3FCC;
+  display:flex;
+  justify-content:center;
+}
